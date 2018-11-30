@@ -11,7 +11,7 @@
 2. .storybook => configure story book :
 
 a. addons.js
-What will been diplayed in the right panel :
+What will been diplayed in the bottom panel :
 
 ```js
 import '@storybook/addon-knobs/register'
